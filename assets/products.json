@@ -1,0 +1,82 @@
+{
+  "store": "North Store",
+  "products": [
+    {
+      "id": "65c88b2b-22ce-4aad-970d-99704db44113",
+      "name": "Patatas",
+      "categoryId": "2e13149a-1325-48f7-b66c-154d628c088d",
+      "price": 10.20,
+      "previousPrice": 15.90,
+      "measure": "kg/€",
+      "imageUrl" : "./assets/images/products/potatoes.png",
+      "important": true
+    },
+    {
+      "id": "d61d19dc-af48-4bbe-bacf-9584c0bdc754",
+      "name": "PLatanos canarios",
+      "categoryId": "2e13149a-1325-48f7-b66c-154d628c088d",
+      "price": 10.20,
+      "previousPrice": 15.90,
+      "measure": "kg/€",
+      "imageUrl" : "./assets/images/products/potatoes.png",
+      "important": true
+    },
+    {
+      "id": "86d6e0a1-7f64-4cdd-9f7b-a419f5550b2a",
+      "name": "Banana Macho",
+      "categoryId": "2e13149a-1325-48f7-b66c-154d628c088d",
+      "price": 10.20,
+      "previousPrice": 15.90,
+      "measure": "kg/€",
+      "imageUrl" : "./assets/images/products/potatoes.png",
+      "important": false
+    },
+    {
+      "id": "3b2931ed-5401-4f09-ad3c-22bfef12c5ba",
+      "name": "Peras de agua",
+      "categoryId": "2e13149a-1325-48f7-b66c-154d628c088d",
+      "price": 10.20,
+      "previousPrice": 15.90,
+      "measure": "kg/€",
+      "imageUrl" : "./assets/images/products/potatoes.png",
+      "important": false
+    },
+    {
+      "id": "46212596-6c6c-4d6e-ae41-84fc04a3857a",
+      "name": "Manzanas golden",
+      "categoryId": "2e13149a-1325-48f7-b66c-154d628c088d",
+      "price": 10.20,
+      "previousPrice": 15.90,
+      "measure": "kg/€",
+      "imageUrl" : "./assets/images/products/potatoes.png",
+      "important": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "2e13149a-1325-48f7-b66c-154d628c088d",
+      "name": "Frutas",
+      "imageUrl": "assets/images/categories/carrot.svg"
+    },
+    {
+      "id": "7a55b12b-7a43-491a-bb8f-0836d210c9d8",
+      "name": "Verduras",
+      "imageUrl": "assets/images/categories/carrot.svg"
+    },
+    {
+      "id": "fd3b3e2c-f417-4e8e-808a-bf6c67b64aa9",
+      "name": "Carne",
+      "imageUrl": "assets/images/categories/carrot.svg"
+    },
+    {
+      "id": "98760450-31f9-4b08-81bf-25842ada5b21",
+      "name": "Pescado",
+      "imageUrl": "assets/images/categories/carrot.svg"
+    },
+    {
+      "id": "0cab6b91-5db8-4b43-bbf9-8b9c92bca690",
+      "name": "Bebidas",
+      "imageUrl": "assets/images/categories/carrot.svg"
+    }
+  ]
+}
